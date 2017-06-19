@@ -4,12 +4,12 @@
     "price": 34.87,
     "image": "/images/dictionary.jpg",
     "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-    "url": "http://snipcart-hugo.netlify.com"
+    "url": "http://baliff-cnythia-72262.netlify.com"
 }, {
     "id": "2",
-    "name": "Capitaine Kirk",
-    "description": "La série originale comprend un  petit Phaser de type 1 à main, qui se branche dans un plus grand corps Phaser avec une poignée de pistolet amovible.",
+    "name": "Phaser de Capitaine Kirk",
+    "description": "La série originale comprend un petit Phaser de type 1 à main, qui se branche dans un plus grand Phaser avec une poignée de pistolet amovible.",
     "price": 145.98,
-    "image": "/images/phaser.png",
-    "url": "http://snipcart-hugo.netlify.com"
+    "image": "/images/phaser.jpg",
+    "url": "http://baliff-cnythia-72262.netlify.com"
 }]
