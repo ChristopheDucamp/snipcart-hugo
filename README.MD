@@ -1,6 +1,6 @@
 # Hugo + Snipcart + Netlify
 
-![static-ecommerce-shop-hugo-website-tutorial](https://snipcart.com/media/10151/static-ecommerce-shop-hugo-website-tutorial.png)
+![static-ecommerce-shop-hugo-website-tutorial](https://github.com/ChristopheDucamp/snipcart-hugo/blob/master/static/images/Aperçu-Snipcart-Hugo.png)
 
 Ce repo contient tout le code utilisé pour un tutoriel avec Hugo, un moteur de contenu statique en Golang.
 
