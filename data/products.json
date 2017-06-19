@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Dictionnaire Klingon",
+    "price": 34.87,
+    "image": "/images/dictionary.jpg",
+    "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "2",
+    "name": "Capitaine Kirk",
+    "description": "La série originale comprend un  petit Phaser de type 1 à main, qui se branche dans un plus grand corps Phaser avec une poignée de pistolet amovible.",
+    "price": 145.98,
+    "image": "/images/phaser.png",
+    "url": "http://snipcart-hugo.netlify.com"
+}]
